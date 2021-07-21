@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Aaryan's Meeting",
+      "day": "21st July 2021 at 3PM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Karanjit interview",
+      "day": "21st July 2021 at 6PM",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "To purchase milk",
+      "day": "22nd July 2021 at 8AM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
